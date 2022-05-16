@@ -1,0 +1,10 @@
+.search-box {
+    height: 40px;
+    width: 250px;
+    margin: 20px;
+    margin-bottom: 60px;
+    margin-left: 100px;
+    background-color: rgb(238, 202, 238);
+    border: solid 2px plum;
+    color: rgb(226, 70, 226);
+}
